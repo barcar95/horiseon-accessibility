@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Styling for header and elements within */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -46,10 +47,12 @@ a {
     text-decoration: none;
 }
 
+/* font-size applies to all p elemts in body */
 p {
     font-size: 16px;
 }
 
+/* styling for class in figure element */
 .hero {
     height: 800px;
     width: 100%;
@@ -59,6 +62,7 @@ p {
     background-position: center;
 }
 
+/* stlying for main and elements within main */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -75,6 +79,7 @@ main {
     margin-left: 20px;
 }
 
+/* styling for aside element and elements within aside */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -121,6 +126,7 @@ aside {
     font-size: 36px;
 }
 
+/* styling for footer element and elements within. */
 footer {
     padding: 30px;
     clear: both;
