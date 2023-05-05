@@ -2,12 +2,7 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+This webpage was refactored to follow accessibility standards. This includes replacing non-semantic elements with semantic elements, adding tags to images with descriptions to assist screen readers, and consolidating the CSS style sheet to make easier to read.
 
 
 ## Installation
@@ -16,11 +11,11 @@ N/A
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+To use this webpage, you can manually access sections via scrolling up/down or clicking on one of the navigation links on the top. One can also use screen readers since the code includes description tags for images.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
+[webpage link](https://barcar95.github.io/horiseon-accessibility/)
 
-![alt text](assets/images/screenshot.png)
+![webpage screenshot](assets/images/horiseon-webpage-screenshot.jpg)
 
 ## Credits
 
